@@ -10,7 +10,7 @@ It demonstrates semantic HTML structure, modern CSS layout techniques, and clean
 - Positioning
 - Vertical stacking with z-index
 
-## Images
+## Project Preview
 
 ### Homepage
 
